@@ -5,8 +5,11 @@ Meal Planning Tool
 Nutrition Guidelines that the program uses
 
 <10% of calories from added sugars
+
 <10% of colories from saturated fats
+
 less than 2,300mg of sodium
+
 less than 300mg per day of dietary cholesterol
 
 
